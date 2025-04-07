@@ -24,9 +24,9 @@ Gloriabank adalah sebuah platform digital banking berbasis web, yang dirancang u
 ## Tech Stack
 
 - **Backend:** Laravel 10
-- **Frontend:** Blade, TailwindCSS, DaisyUI
+- **Frontend:** Blade, TailwindCSS, Materialize and DaisyUI
 - **Deployment:** GitHub, Laravel Artisan
-- **Database:** MySQL (bisa disesuaikan)
+- **Database:** MySQL Workbench (bisa disesuaikan)
 
 ## Instalasi Lokal
 
